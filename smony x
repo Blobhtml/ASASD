@@ -199,7 +199,7 @@ Swagmode_2.BackgroundTransparency = 1.000
 Swagmode_2.Position = UDim2.new(0.045161292, 0, 0, 0)
 Swagmode_2.Size = UDim2.new(0, 115, 0, 34)
 Swagmode_2.Font = Enum.Font.GothamBlack
-Swagmode_2.Text = "GAYXV1"
+Swagmode_2.Text = "Mony X DH"
 Swagmode_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 Swagmode_2.TextSize = 20.000
 
